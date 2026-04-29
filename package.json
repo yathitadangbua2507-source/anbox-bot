@@ -1,0 +1,12 @@
+{
+  "name": "anbox-province-bot",
+  "version": "1.0.0",
+  "description": "บอทรับยศ 77 จังหวัด โดย ANBOX HUB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
