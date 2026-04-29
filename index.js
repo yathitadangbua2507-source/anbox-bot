@@ -9,7 +9,7 @@ const { Client, GatewayIntentBits, Partials, EmbedBuilder, ActionRowBuilder, Str
 // ══════════════════════════════════
 //  ⚙️ ตั้งค่าตรงนี้
 // ══════════════════════════════════
-const TOKEN = 'MTQ5ODg1ODEyODY3MzA3OTMwNg.GVzKtI.DC5u6P8_Gunsm_asyF6g3viPJW-r-T4iPmuT_U'  // ← TOKEN จาก Discord Developer Portal
+const TOKEN = 'MTQ5ODg1ODEyODY3MzA3OTMwNg.G8s6yq.8clbUOylzvxhRMufn6YgpuPjPxTln4dA2E6S0o'  // ← TOKEN จาก Discord Developer Portal
 const CHANNEL_ID = '1498719476403802162'  // ← ID ห้องที่ต้องการ
 
 // ══════════════════════════════════
